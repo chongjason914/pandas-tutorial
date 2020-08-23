@@ -10,7 +10,7 @@ YouTube channel.
 
 ## How will the tutorial be structured?
 A new tutorial will be released on a weekly basis and it will be structured in such that it builds upon the knowledge from the prior weeeks. I will also be importing and working 
-with datasets from kaggle (https://www.kaggle.com/) to demonstrate the different concepts in each week's tutorial. 
+with datasets from [kaggle](https://www.kaggle.com/) to demonstrate the different concepts in each week's tutorial. 
 
 ## What do I hope to accomplish with this tutorial?
 I am doing this mainly to inspire and encourage more people to use pandas in their own data analysis work. On the other hand, this tutorial will also act as a refresher for myself
