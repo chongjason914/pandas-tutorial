@@ -17,7 +17,7 @@ I am doing this mainly to inspire and encourage more people to use pandas in the
 to see what I already know or don't know about pandas. Furthermore, I want to use this tutorial as means of improving my communication skills as well as my ability to explain
 an idea in simple but thorough terms. 
 
-## Content so far (will be progressively updated)
+## Topics (will be progressively updated)
 Week 1: Importing data and creating dataframe \
 Week 2: Selecting data using loc and iloc \
 Week 3: Functions and descriptive statistics \
