@@ -21,4 +21,4 @@ Week 2: Selecting data using loc and iloc \
 Week 3: Functions and descriptive statistics \
 Week 4: Grouping and sorting data \
 Week 5: Data types and missing values \
-Week 6: Combining dataframe
+Week 6: Combining dataframes
