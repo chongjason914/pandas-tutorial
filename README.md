@@ -15,7 +15,7 @@ with datasets from [kaggle](https://www.kaggle.com/) to demonstrate the differen
 ## What do I hope to accomplish with this tutorial?
 I am doing this mainly to inspire and encourage more people to use pandas in their own data analysis work. Furthermore, I want to use this tutorial as means of improving my communication skills as well as my ability to explain concepts in simple but thorough terms. 
 
-## Topics (will be progressively updated)
+## Topics
 Week 1: Importing data and creating dataframe \
 Week 2: Selecting data using loc and iloc \
 Week 3: Functions and descriptive statistics \
