@@ -5,7 +5,7 @@ Pandas is a data manipulation library that is built on top of the Python program
 manipulation and data visualisation.
 
 ## What is Pandas Zero to Hero?
-Pandas Zero to Hero is my self-made beginner's tutorial to using pandas. This repo contains the materials that I will use to conduct my weekly tutorial lessons on my 
+Pandas Zero to Hero is a beginner's tutorial to using the Pandas library. This repo contains the materials that I will use to conduct my weekly tutorial lessons on my 
 YouTube channel.
 
 ## How will the tutorial be structured?
