@@ -1,6 +1,6 @@
 # Pandas Zero to Hero - Beginner's Course to Using Pandas
 
-## What is pandas?
+## What is Pandas?
 Pandas is a data manipulation library that is built on top of the Python programming language which allows users to easily and effectively carry out data wrangling, data
 manipulation and data visualisation.
 
